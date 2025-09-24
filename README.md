@@ -2,7 +2,9 @@
 
 This is a project used to demonstrate the capability of machine learning models to aid in medical diagnosis
 For this project I utilized the Kaggle dataset which can be found here
+
 ```https://www.kaggle.com/datasets/redwankarimsony/heart-disease-data/data```
+
 originally I uploaded the dataset to a SQL database for additional functionality,
 however I decided to rework it to rely on just the csv for easy repeatability.
 
